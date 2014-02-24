@@ -1,12 +1,12 @@
 {
-  "author": "Amit Levy",
-  "name": "memjs",
+  "author": "chylvina",
+  "name": "node-memcache",
   "description": "A memcache client for node using the binary protocol and SASL authentication",
-  "version": "0.8.3",
-  "homepage": "http://github.com/alevy/memjs",
+  "version": "0.1.0",
+  "homepage": "https://github.com/3rd-Eden/node-memcached.git",
   "repository": {
     "type": "git",
-    "url": "git://github.com/alevy/memjs.git"
+    "url": "http://github.com/alevy/memjs"
   },
   "engines": {
     "node": ">=0.6.18"
